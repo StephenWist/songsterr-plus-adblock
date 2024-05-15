@@ -9,9 +9,5 @@
             "matches":["*://*.songsterr.com/a/wsa/*"],
             "js": ["songsterr-plus-adblock.js", "browser-polyfill.min.js"]
         }
-    ],
-
-    "permissions": [
-        "activeTab"
     ]
 }
